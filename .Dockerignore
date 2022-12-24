@@ -1,16 +1,7 @@
 test/
-build/
 node_modules/
-data/
-config/
-
-*.js
 .vscode/
 package-lock.json
 docker-compose.yml
 prometheus.yml
-.npmrc
-*.yml
-prometheus.yml
-docker-compose.yml
 .npmrc
